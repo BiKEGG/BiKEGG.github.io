@@ -1954,14 +1954,14 @@
 				text-transform: capitalize;
 				letter-spacing: 3px;
 				padding: 0;
-				margin-top: 100.35 em;
+				margin-top: 0.35 em;
 			}
 
 				#header header p:before {
 					content: '';
 					display: block;
 					border-top: solid 1 px rgba(255, 255, 255, 0.5);
-					margin: 4 px 0 0.8em 0;
+					margin: 400 px 0 0.8 0;
 				}
 
 		#header footer {
