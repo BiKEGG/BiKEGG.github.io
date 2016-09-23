@@ -1961,7 +1961,7 @@
 					content: '';
 					display: block;
 					border-top: solid 1 px rgba(255, 255, 255, 0.5);
-					 margin: 270px 150px 100px 80px;
+					 margin: 300px 150px 100px 80px;
 				}
 
 		#header footer {
@@ -1987,7 +1987,7 @@
 				width: 90px;
 				height: 66px;
 				position: absolute;
-				left: 50%;
+				left: 70%;
 				bottom: -4.5em;
 				margin-left: -45px;
 				margin-bottom: -33px;
