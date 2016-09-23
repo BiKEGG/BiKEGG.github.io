@@ -1969,6 +1969,10 @@
 			bottom: 9em;
 			margin: 0;
 			width: 100%;
+			height:100px;
+    			background:red;
+    			left:10px;
+    			top:100px;
 		}
 
 			#header footer:after {
