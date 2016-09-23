@@ -1,4 +1,4 @@
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 @import url("font-awesome.min.css");
 
 /*
@@ -1966,7 +1966,7 @@
 
 		#header footer {
 			position: absolute;
-    			left: 630px;
+    			left: 430px;
 			bottom: 9em;
 			margin: 0;
 			width: 100%;
