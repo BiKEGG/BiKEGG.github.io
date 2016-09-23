@@ -1965,8 +1965,9 @@
 				}
 
 		#header footer {
-			position: absolute;
-			bottom: 39em;
+			position: relative;
+    			left: -20px;
+			bottom: 9em;
 			margin: 0;
 			width: 100%;
 		}
