@@ -1311,7 +1311,7 @@
 
 	body {
 		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/BiKEGG_SmallLogo.png");
+		background-image: url("images/overlay.png"), url("../../images/BiKEGG_logo.png");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, contain;
 		background-position: top left, center top;
