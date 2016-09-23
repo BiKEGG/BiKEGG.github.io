@@ -1966,10 +1966,10 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 
 		#header footer {
 			position: absolute;
-    			left: 430px;
+    			left: 400px;
 			bottom: 9em;
 			margin: 0;
-			width: 100%;
+			width: 70%;
 		}
 
 			#header footer:after {
