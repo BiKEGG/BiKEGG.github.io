@@ -1966,7 +1966,6 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 
 		#header footer {
 			position: absolute;
-    			left: 400px;
 			bottom: 9em;
 			margin: 0;
 			width: 70%;
@@ -1979,7 +1978,7 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 				bottom: -9em;
 				left: 50%;
 				height: 9em;
-				border-left: solid 1px red;
+				border-left: solid 3px red;
 			}
 
 			#header footer:before {
