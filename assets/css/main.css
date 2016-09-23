@@ -1322,8 +1322,6 @@
 		font-weight: 300;
 		letter-spacing: 1px;
 		color: #3a3939;
-		opacity: 1, 0.1;
-		filter: 1, alpha(opacity=10); /* For IE8 and earlier */
 		text-shadow: 0 0 0.5px rgba(58, 57, 57, 0.25);
 		-webkit-text-stroke: 0.25px;
 	}
