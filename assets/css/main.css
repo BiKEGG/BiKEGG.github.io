@@ -1311,7 +1311,7 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 
 	body {
 		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
+		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, contain;
 		background-position: top left, center top;
