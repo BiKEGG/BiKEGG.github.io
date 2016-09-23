@@ -1970,9 +1970,8 @@
 			margin: 0;
 			width: 100%;
 			height:100px;
-    			background:red;
-    			left:10px;
-    			top:100px;
+    			left:100px;
+    			top:1000px;
 		}
 
 			#header footer:after {
