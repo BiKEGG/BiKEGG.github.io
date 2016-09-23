@@ -1960,8 +1960,8 @@
 				#header header p:before {
 					content: '';
 					display: block;
-					border-top: solid 10 px rgba(255, 255, 255, 0.5);
-					margin: 4px 0 0.8em 0;
+					border-top: solid 1 px rgba(255, 255, 255, 0.5);
+					margin: 40 px 0 0.8em 0;
 				}
 
 		#header footer {
