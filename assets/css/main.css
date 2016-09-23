@@ -1315,7 +1315,7 @@
 		background-repeat: repeat, no-repeat;
 		background-size: auto, auto;
 		background-position: top left, center top;
-		background-attachment: fixed, fixed;
+		background-attachment: fixed, scroll;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 18pt;
 		line-height: 1.75em;
