@@ -1965,7 +1965,7 @@
 				}
 
 		#header footer {
-			position: relative;
+			position: absolute;
     			left: -20px;
 			bottom: 9em;
 			margin: 0;
