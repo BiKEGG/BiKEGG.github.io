@@ -1313,7 +1313,7 @@
 		background-color: #183026;
 		background-image: url("images/overlay.png"), url("../../images/BiKEGG_SmallLogo.png");
 		background-repeat: repeat, no-repeat;
-		background-size: auto, auto;
+		background-size: auto, cover;
 		background-position: top left, center top;
 		background-attachment: fixed, scroll;
 		font-family: 'Source Sans Pro', sans-serif;
