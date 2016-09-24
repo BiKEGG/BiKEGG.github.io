@@ -1327,8 +1327,8 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 	}
 
 		body.is-scroll {
-			background-attachment: scroll, scroll;
-			background-size: inherit, inherit;
+			background-attachment: local, local;
+			background-size: auto, 100% auto;
 		}
 
 		body.is-loading * {
