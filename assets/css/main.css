@@ -1327,7 +1327,7 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 	}
 
 		body.is-scroll {
-			background-attachment: scroll, fixed;
+			background-attachment: scroll, scroll;
 			background-size: auto, contain;
 		}
 
@@ -1524,9 +1524,9 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 
 		ul.icons a {
 			display: inline-block;
-			width: 2.5em;
-			height: 2.5em;
-			line-height: 2.5em;
+			width: 20.5em;
+			height: 20.5em;
+			line-height: 20.5em;
 			text-align: center;
 			border: 0;
 		}
