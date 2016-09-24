@@ -1506,12 +1506,12 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 	}
 
 		ul.default li {
-			padding-left: 10.5em;
+			padding-left: 1.5em;
 			margin-top: 1.5em;
 		}
 
 			ul.default li:first-child {
-				margin-top: 0;
+				margin-top: 200px;
 			}
 
 	ul.icons {
