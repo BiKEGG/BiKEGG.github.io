@@ -1562,22 +1562,6 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 				margin-left: 0;
 			}
 			
-			ul.actions.fit {
-				display: table;
-				margin-left: -1em;
-				padding: 0;
-				table-layout: fixed;
-				width: calc(100% + 1em);
-			}
-
-				ul.actions.fit li {
-					display: table-cell;
-					padding: 0 0 0 1em;
-				}
-
-					ul.actions.fit li > * {
-						margin-bottom: 0;
-					}
 
 	ol.default {
 		list-style: decimal;
