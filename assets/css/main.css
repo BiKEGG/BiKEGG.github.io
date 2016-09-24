@@ -1315,7 +1315,7 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center top;
-		background-attachment: fixed, fixed;
+		background-attachment: fixed, local;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 18pt;
 		line-height: 1.75em;
