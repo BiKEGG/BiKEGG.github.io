@@ -1695,7 +1695,7 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-webkit-appearance: none;
-		position: static;
+		position: initial;
 		display: inline-block;
 		border: 0;
 		background: #35b88f;
