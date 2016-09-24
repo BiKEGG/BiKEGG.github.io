@@ -1313,7 +1313,7 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 		background-color: #183026;
 		background-image: url("images/overlay.png"), url("../../images/Opaque_logo.png");
 		background-repeat: repeat, no-repeat;
-		background-size: auto, cover;
+		background-size: auto, contain;
 		background-position: top left, center top;
 		background-attachment: fixed, local;
 		font-family: 'Source Sans Pro', sans-serif;
