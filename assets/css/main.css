@@ -1312,10 +1312,10 @@ header footer:after@import url("http://fonts.googleapis.com/css?family=Source+Sa
 	body {
 		background-color: #183026;
 		background-image: url("images/overlay.png"), url("../../images/Opaque_logo.png");
-		background-repeat: repeat, repeat;
+		background-repeat: repeat, no-repeat;
 		background-size: auto, contain;
 		background-position: top left, center top;
-		background-attachment: fixed, scroll;
+		background-attachment: fixed, fixed;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 18pt;
 		line-height: 1.75em;
