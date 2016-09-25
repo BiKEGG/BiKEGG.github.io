@@ -1314,7 +1314,7 @@
 		background-image: url("images/overlay.png"), url("../../images/BiKEGG_logo2.png");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, auto;
-		background-position: top left, 30% 10%;
+		background-position: top left, 50px 0px;
 		background-attachment: fixed, auto;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 18pt;
