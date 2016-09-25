@@ -1327,7 +1327,7 @@
 	}
 
 		body.is-scroll {
-			background-attachment: scroll, fixed;
+			background-attachment: scroll, scroll;
 			background-size: auto, auto;
 		}
 
