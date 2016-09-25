@@ -1694,7 +1694,7 @@
 		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-webkit-appearance: none;
-		position: fixed;
+		position: relative;
 		display: inline-block;
 		border: 0;
 		background: #35b88f;
@@ -1704,7 +1704,7 @@
 		text-decoration: none;
 		outline: 0;
 		padding: 1em 1em 1em 1em;
-		margin: 8em 0.1em 0.1em 0.3em;
+		margin: 80em 0.1em 0.1em 0.3em;
 		text-align: center;
 		border-radius: 3em;
 		font-weight: 400;
