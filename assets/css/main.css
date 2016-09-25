@@ -1694,7 +1694,7 @@
 		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-webkit-appearance: none;
-		position: static;
+		position: fixed;
 		display: inline-block;
 		border: 0;
 		background: #35b88f;
@@ -1708,7 +1708,7 @@
 		border-radius: 3em;
 		font-weight: 400;
 		left:10px;
-   	        top:100px;
+   	        top:170px;
 	}
 
 		input[type="button"]:hover,
