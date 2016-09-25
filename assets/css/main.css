@@ -1310,12 +1310,12 @@
 /* Basic */
 
 	body {
-		
+		background-color: #183026;
 		background-image: url("images/overlay.png"), url("../../images/BiKEGG_logo1.png");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, auto;
 		background-position: top left, center 0;
-		background-attachment: fixed, scroll;
+		background-attachment: fixed, fixed;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 18pt;
 		line-height: 1.75em;
@@ -1328,7 +1328,7 @@
 
 		body.is-scroll {
 			background-attachment: scroll, scroll;
-			background-size: auto, auto;
+			background-size: auto, 100% auto;
 		}
 
 		body.is-loading * {
