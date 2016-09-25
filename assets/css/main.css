@@ -1694,7 +1694,7 @@
 		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-webkit-appearance: none;
-		position: relative;
+		position: absolute;
 		display: inline-block;
 		border: 0;
 		background: #35b88f;
@@ -1707,8 +1707,8 @@
 		text-align: center;
 		border-radius: 3em;
 		font-weight: 400;
-		left:10px;
-   	        top:170px;
+		left:50%;
+   	        top:50%;
 	}
 
 		input[type="button"]:hover,
