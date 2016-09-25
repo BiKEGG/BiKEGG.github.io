@@ -1979,7 +1979,7 @@
 				bottom: -11em;
 				left: 50%;
 				height: 11em;
-				border-left: solid 1px #f00000;
+				border-left: solid 2px #f00000;
 			}
 
 			#header footer:before {
@@ -1993,6 +1993,7 @@
 				margin-left: -45px;
 				margin-bottom: -33px;
 				background: url("images/arrow.svg") no-repeat;
+				border-left: solid 2px #f00000;
 			}
 
 /* Banner */
