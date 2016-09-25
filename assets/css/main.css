@@ -1694,7 +1694,7 @@
 		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-webkit-appearance: none;
-		position: absolute;
+		position: static;
 		display: inline-block;
 		border: 0;
 		background: #35b88f;
