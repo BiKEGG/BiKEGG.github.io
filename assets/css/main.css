@@ -1703,12 +1703,12 @@
 		cursor: pointer;
 		text-decoration: none;
 		outline: 0;
-		padding: 12px;
+		padding: 12px 12px;
 		text-align: center;
 		border-radius: 3em;
 		font-weight: 400;
-		left:50%;
-   	        top:50%;
+		left:30px;
+   	        top:100px;
 	}
 
 		input[type="button"]:hover,
