@@ -1688,7 +1688,8 @@
 	input[type="submit"],
 	input[type="reset"],
 	button,
-	.button {
+	
+{
 		-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
@@ -1727,7 +1728,7 @@
 			background: #fff;
 			box-shadow: inset 0 0 0 1px #fff;
 			padding: 30px;
-			margin: 270px
+			margin: 570px
 		}
 
 			input[type="button"].style2:hover,
