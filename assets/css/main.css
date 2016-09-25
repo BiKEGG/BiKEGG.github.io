@@ -1310,7 +1310,7 @@
 /* Basic */
 
 	body {
-		background-color: #183026;
+		
 		background-image: url("images/overlay.png"), url("../../images/BiKEGG_logo1.png");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, auto;
