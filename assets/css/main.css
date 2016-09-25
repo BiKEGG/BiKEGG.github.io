@@ -1967,7 +1967,7 @@
 
 		#header footer {
 			position: absolute;
-			bottom: 12em;
+			bottom: 11em;
 			margin: 0;
 			width: 100%;
 		}
@@ -1976,9 +1976,9 @@
 				content: '';
 				display: block;
 				position: absolute;
-				bottom: -12em;
+				bottom: -11em;
 				left: 50%;
-				height: 9em;
+				height: 11em;
 				border-left: solid 1px #f00000;
 			}
 
