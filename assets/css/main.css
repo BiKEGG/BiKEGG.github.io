@@ -1822,6 +1822,18 @@
 				margin: 0;
 			}
 
+			p {
+				font-size: 10pt;
+				letter-spacing: 1px;
+				text-align: justify;
+				line-height: 200%;
+			}
+
+			h2 {
+				font-size: 13pt;
+				text-align: center;
+			}
+
 			.box.style1.right .image {
 				left: 0;
 			}
@@ -2441,6 +2453,7 @@
 						margin: 0 !important;
 						padding: 2em 1.25em 2em 1.25em !important;
 					}
+				
 
 				.box.style2 .inner .row:before {
 					display: none;
