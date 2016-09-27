@@ -1481,6 +1481,7 @@
 		.image.fit {
 			display: block;
 			width: 100%;
+			background-size: cover; 
 		}
 
 		.image.left {
