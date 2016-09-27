@@ -1484,8 +1484,8 @@
 		}
 
 		.image.left {
-			float: left;
-			margin: 0 20em 20em 0;
+			float: right;
+			margin: 0 2em 2em 0;
 		}
 
 		.image.centered {
