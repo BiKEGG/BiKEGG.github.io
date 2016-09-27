@@ -1849,7 +1849,7 @@
 			}
 
 		.box.style2 {
-			text-align: justify;
+			text-align: center;
 		}
 
 			.box.style2 header {
@@ -1861,10 +1861,7 @@
 
 				.box.style2 header p {
 					padding: 0;
-					font-size: 10pt;
-					letter-spacing: 1px;
-					text-align: justify;
-					line-height: 200%;
+					font-size: 50pt;
 				}
 
 			.box.style2 .inner {
@@ -2032,7 +2029,7 @@
 
 		#banner p {
 			margin: 1em;
-			font-size: 30pt;
+			font-size: 17pt;
 			text-align: justify;
 		}
 
