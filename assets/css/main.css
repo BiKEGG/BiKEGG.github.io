@@ -1447,6 +1447,7 @@
 
 	section, article {
 		margin-bottom: 3em;
+		background-size: contain; 
 	}
 
 	section > :last-child,
@@ -1481,7 +1482,6 @@
 		.image.fit {
 			display: block;
 			width: 100%;
-			background-size: cover; 
 		}
 
 		.image.left {
