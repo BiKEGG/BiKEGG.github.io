@@ -1488,7 +1488,7 @@
 			margin: 0 2em 2em 0;
 		}
 		.image.size {
-			background-size: cover;
+			background-size: auto 70%;
 		}
 
 		.image.centered {
