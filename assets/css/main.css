@@ -1501,6 +1501,9 @@
 		.image.size {
 			background-size: contain;
 		}
+		.image.size1 {
+			background-size: auto;
+		}
 
 		.image.centered {
 			display: block;
