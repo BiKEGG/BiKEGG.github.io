@@ -1724,6 +1724,28 @@
 		font-weight: 400;
 
 	}
+	.button1 {
+		-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
+		-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
+		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
+		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
+		-webkit-appearance: none;
+		position: relative;
+		display: inline-block;
+		border: 0;
+		background: #35b88f;
+		color: #fff;
+		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
+		cursor: pointer;
+		text-decoration: none;
+		outline: 0;
+		padding: 11em 11em 11em 11em;
+		margin: 8em 0.2em 0.1em 0.1em;
+		text-align: center;
+		border-radius: 3em;
+		font-weight: 400;
+
+	}
 
 		input[type="button"]:hover,
 		input[type="submit"]:hover,
