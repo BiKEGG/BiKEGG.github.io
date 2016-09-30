@@ -2161,7 +2161,7 @@
 		.poptrox-popup .caption {
 			position: absolute;
 			bottom: 45px;
-			left: 2px;
+			left: 0.5px;
 			background: #fff;
 			font-size: 60%;
 			width: 100%;
