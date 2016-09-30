@@ -57,6 +57,7 @@ aw[title]:hover:after {
 		padding: 0;
 		border: 0;
 		font-size: 70%;
+		font: inherit;
 		vertical-align: baseline;
 	}
 
